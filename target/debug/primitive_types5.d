@@ -1,1 +1,1 @@
-/Users/xmp-er/Documents/SHIT/Rustlings/rustlings/target/debug/primitive_types5: /Users/xmp-er/Documents/SHIT/Rustlings/rustlings/exercises/04_primitive_types/primitive_types5.rs
+C:\SHIT\rustlings\temp\target\debug\primitive_types5.exe: C:\SHIT\rustlings\temp\exercises\04_primitive_types\primitive_types5.rs

@@ -1,1 +1,1 @@
-/Users/xmp-er/Documents/SHIT/Rustlings/rustlings/target/debug/structs1: /Users/xmp-er/Documents/SHIT/Rustlings/rustlings/exercises/07_structs/structs1.rs
+C:\SHIT\rustlings\temp\target\debug\structs1.exe: C:\SHIT\rustlings\temp\exercises\07_structs\structs1.rs

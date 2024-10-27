@@ -1,1 +1,1 @@
-/Users/xmp-er/Documents/SHIT/Rustlings/rustlings/target/debug/vecs2: /Users/xmp-er/Documents/SHIT/Rustlings/rustlings/exercises/05_vecs/vecs2.rs
+C:\SHIT\rustlings\temp\target\debug\vecs2.exe: C:\SHIT\rustlings\temp\exercises\05_vecs\vecs2.rs
